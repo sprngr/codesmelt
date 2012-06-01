@@ -5,11 +5,12 @@ A web based HTML, CSS, & Javascript editor with live rendering.
 
 Project Plans
 -------------
-Finishing this readme
-
-Planned Features
-----------------
-TBD
+*Clean up interface
+*Clean up code base, refactor a lot of files
+*Look into better implementations for file upload/download
+*Expand upon everything
+*Keep it simple
+*Finishing this readme
 
 Project Dependencies
 --------------------
