@@ -29,9 +29,10 @@ this requirement so it can be standalone without a PHP service running.
 Project History
 ---------------
 ### Original Project Specification
-“HTML, Javascript, SVG Editor”
 
-Build an editing environment running in the browser which allows people to create markup, preview it as working HTML or SVG with script, and edit and save their work. It should be syntax-aware so that markup and possibly script is prechecked and highlighted for correctness 
+>“HTML, Javascript, SVG Editor”
+>
+>Build an editing environment running in the browser which allows people to create markup, preview it as working HTML or SVG with script, and edit and save their work. It should be syntax-aware so that markup and possibly script is prechecked and highlighted for correctness 
 
 Codesmelt was the result of a final coursework project of mine during my senior year of college. After the presentation was over, I had managed to get the other students in my group to let this be open sourced instead of die afterward. 
 
