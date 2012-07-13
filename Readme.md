@@ -40,8 +40,8 @@ I loved working on this project and feel that it has tons of potential since I'm
 
 ### Orignal Authors
 
-**Michael Springer** - Project lead, interface design, core editor functionality, CodeMirror implementation
+**Michael Springer** - Current Maintainer
 
-**Travis Wimer** - File handling, pane resizer
+**Travis Wimer**
 
-**Nicholas Gilbert** - Debugging, project presentation
+**Nicholas Gilbert**
