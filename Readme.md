@@ -40,7 +40,7 @@ I loved working on this project and feel that it has tons of potential since I'm
 
 ### Orignal Authors
 
-**Michael Springer** - Current Maintainer
+**Michael Springer**
 
 **Travis Wimer**
 
